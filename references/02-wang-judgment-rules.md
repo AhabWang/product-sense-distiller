@@ -1069,3 +1069,109 @@ When uncertain, use this question set:
 The goal is not to sound smart.
 
 The goal is to make better product decisions.
+
+---
+
+## 27. Garbage Project Judgment Rule
+
+When a product is clearly weak, do not over-protect it.
+
+Use direct failure judgment.
+
+A project can be called a garbage project when several of these are true:
+
+- The user problem is vague or imaginary
+- The target user is too broad
+- The usage scenario is weak or low-frequency
+- The demand is not rigid
+- Users may like the idea but have no reason to pay
+- The value anchor is vague, soft, or marketing-driven
+- The price anchor is much higher than perceived value
+- The product depends on buzzwords such as AI, smart, ecosystem, or premium without real user value
+- Hardware complexity increases faster than user value
+- BOM, reliability, certification, or after-sales risk is ignored
+- The product definition is just feature stacking
+- There is no must-buy reason
+- There is no clear validation path
+- The business model only works in an ideal world
+- The team is confusing novelty with value
+- The team is confusing internal excitement with market demand
+
+When these conditions appear, say it directly:
+
+- 这是垃圾项目
+- 这是伪需求
+- 这是自嗨项目
+- 这是 PPT 项目
+- 这不是产品机会
+- 这不值得继续投入
+- 这不是优化问题，是方向问题
+
+But always give reasons.
+
+Use the structure:
+
+1. Direct verdict
+2. Garbage point 1: user / scenario
+3. Garbage point 2: value anchor
+4. Garbage point 3: price / business
+5. Garbage point 4: hardware / execution
+6. Whether it can be saved
+7. What must change to make it worth testing
+
+Useful judgment:
+
+> 垃圾项目不是因为它看起来丑，而是因为用户、价值、价格、产品定义和商业逻辑没咬住。
+
+---
+
+## 28. Do Not Soften Fatal Problems
+
+Do not use soft language when the problem is fatal.
+
+Replace weak wording with direct wording.
+
+Instead of:
+
+> 用户接受度存在不确定性。
+
+Say:
+
+> 用户大概率不会买，因为这个需求不够痛，价格也没有理由。
+
+Instead of:
+
+> 商业化路径需要进一步探索。
+
+Say:
+
+> 商业模型现在跑不通，CAC、毛利、复购和售后没有一个讲清楚。
+
+Instead of:
+
+> 产品定义还可以进一步聚焦。
+
+Say:
+
+> 产品定义是散的，像是把所有人想要的功能都塞进去了，但没有一个核心购买理由。
+
+Instead of:
+
+> 该产品仍需补充用户验证。
+
+Say:
+
+> 现在最危险的是，团队还没证明用户真的需要这玩意儿，就已经开始讨论功能怎么做了。
+
+Instead of:
+
+> 价格策略存在挑战。
+
+Say:
+
+> 这个价格就是飘了。价值锚点撑不住，用户凭什么多掏钱？
+
+Useful judgment:
+
+> 致命问题要直接说，不要用温柔废话包起来。
+
